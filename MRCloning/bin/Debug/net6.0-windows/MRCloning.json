@@ -1,0 +1,9 @@
+{
+	"cloning_path": ".\\cloning_data",
+	"hero_file": "HroConfiguration.ini",
+	"hero_path": ".\\test2\\",
+	"map_file": "map.map",
+	"map_path": ".\\test2\\map\\",
+	"roadmap_file": "roadmap.rp",
+	"roadmap_path": ".\\test2\\roadmap\\"
+}
